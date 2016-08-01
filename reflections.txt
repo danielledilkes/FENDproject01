@@ -1,0 +1,8 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+Most of this first module was review for me, so I didn't learn many new skills. I did learn about some elements that I hadn't used before, including the <figure> or <figcaption> element. I was also still using <b> instead of <strong> for making text bold. I haven't run into any challenges yet or had an opportunity to use the problem solving strategies from project 1, but I'm looking forward to the next module. 
